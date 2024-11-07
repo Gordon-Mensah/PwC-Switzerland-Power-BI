@@ -1,6 +1,24 @@
-# PwC-Switzerland-Power-BI
-I’m really excited to dive into this experience and build my skills in Power BI and digital transformation! Through this journey, I hope to expand my ability to create meaningful data visualizations—not only by learning the technical aspects but also by understanding how to tell a story with data that truly drives decisions. I want to learn how to present data in a way that resonates with clients, helping to uncover valuable insights and patterns.
+#📞 Telecom Call Center Dashboard - Power BI Project
+Project Overview
+This project focuses on visualizing key performance indicators (KPIs) and metrics for a major telecom client’s call center, enabling a deeper understanding of customer satisfaction, agent performance, and call handling efficiency. The data is visualized in a Power BI dashboard designed to empower data-driven decisions in customer service and improve both service levels and customer satisfaction.
 
-I’m also looking forward to gaining a better understanding of automation and machine learning, especially seeing how these tools can streamline processes and add value across business services. I’m eager to see firsthand how PwC uses these tools to tackle real-world challenges and to apply that mindset in my own work.
+Objective
+In an increasingly competitive telecom industry, it’s essential to understand what customers value most. This dashboard helps visualize critical metrics to provide a comprehensive view of the client’s call center performance and highlights areas for improvement. By gaining insights from data such as call handling time, speed of answer, and customer satisfaction, the telecom company can optimize its customer service strategies and enhance the customer experience.
 
-Overall, I’m hoping this experience will give me the hands-on practice to strengthen both my technical skills and strategic thinking, making me better equipped to drive innovation and efficiency in future projects. Thank you for the opportunity—I can’t wait to get started!
+KPIs & Metrics
+The dashboard incorporates the following key metrics to analyze call center performance and customer satisfaction effectively:
+
+Overall Customer Satisfaction: Displays an aggregated customer satisfaction rating, giving insight into the overall experience.
+Call Handling Metrics:
+Total Calls Answered/Abandoned: Provides an overview of customer call volume and how effectively calls are being managed.
+Average Speed of Answer (ASA): Measures the average time agents take to answer calls, a crucial metric in customer service.
+Calls by Time: Breaks down call volume by different time segments, helping to identify peak hours and plan for resource allocation.
+Agent Performance:
+Agent Performance Quadrant: Visualizes agent efficiency by mapping Average Handle Time (talk duration) against Calls Answered. This helps categorize agents based on their handling time and call volume, identifying high-performers and those needing improvement.
+Project Highlights
+Interactive Visuals: The dashboard uses various visuals like clustered bar charts, pie charts, and scatter plots to display metrics in a user-friendly manner.
+Real-time Insights: Filters enable users to interact with the data, allowing customized views by time period, call type, and individual agent performance.
+Data-Driven Recommendations: By analyzing the trends and relationships in call data, the client can make targeted improvements, like scheduling more agents during peak hours or implementing training to improve answer speed.
+Tools & Technologies
+Power BI Desktop: Used to build, analyze, and visualize the data in an interactive dashboard.
+DAX (Data Analysis Expressions): DAX formulas are used to calculate key metrics and ratios, such as satisfaction scores, answer rates, and handle times.
