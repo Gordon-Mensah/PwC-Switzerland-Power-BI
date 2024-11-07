@@ -1,4 +1,5 @@
-📞 #Telecom Call Center Dashboard - Power BI Project
+📞 # **Telecom Call Center Dashboard - Power BI Project **
+
 Project Overview
 This project focuses on visualizing key performance indicators (KPIs) and metrics for a major telecom client’s call center, enabling a deeper understanding of customer satisfaction, agent performance, and call handling efficiency. The data is visualized in a Power BI dashboard designed to empower data-driven decisions in customer service and improve both service levels and customer satisfaction.
 
